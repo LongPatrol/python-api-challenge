@@ -131,4 +131,4 @@ dmypy.json
 .pyre/
 
 #keys
-api_keys.py
+.py.gitignore
