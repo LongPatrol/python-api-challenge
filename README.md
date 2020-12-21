@@ -11,3 +11,6 @@ The code here is getting the latitude and max temperature from our city datafram
 
 ## Vacation Py
 Now we are going to take our weather data from above and look for cities for our perfect getaway. Once we identify those wonderful places, we need to find a place to stay and figure out how to get to those hotels. We are using the gmaps package to map a humdity heatmap (just for kicks), and to plot markers for the locations of our hotels. To find the hotels, we are calling Google's place api with the nearbysearch.
+
+Below are the locations of my ideal weather conditions. I am apparently pretty picky:
+![Humidity with hotels](https://github.com/LongPatrol/python-api-challenge/blob/main/VacationPy/images/humidity%20with%20hotel%20markers.png)
