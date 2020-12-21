@@ -38,19 +38,19 @@ Programiz. (2020, Dec 19). *Python zip()*. Programiz. https://www.programiz.com/
 
 debo. (2020, Dec 19). *Write dictionary of lists to csv*. Stack Overflow. https://stackoverflow.com/questions/23396121/write-dictionary-of-lists-to-csv/41562434
 
+**Debugging csv file help:**
+
+Ransom, M. (2020, Dec 19). *python 3.2 UnicodeEncodeError: 'charmap' codec can't encode character '\u2013' in position 9629: character maps to <undefined>*. Stack Overflow. https://stackoverflow.com/questions/16346914/python-3-2-unicodeencodeerror-charmap-codec-cant-encode-character-u2013-i
+
+**Csv skipping lines:**
+
+Lanaru. (2020, Dec 19). *csv.write skipping lines when writing to csv*. Stack Overflow. https://stackoverflow.com/questions/11652806/csv-write-skipping-lines-when-writing-to-csv
+
+**Index of a list:**
+
+Programiz. (2020, Dec 19). *Python List index()*. Programiz. https://www.programiz.com/python-programming/methods/list/index
 
 12/19/2020:
-
-
-Debugging csv file help:
-https://stackoverflow.com/questions/16346914/python-3-2-unicodeencodeerror-charmap-codec-cant-encode-character-u2013-i
-
-Csv skipping lines:
-https://stackoverflow.com/questions/11652806/csv-write-skipping-lines-when-writing-to-csv
-
-Index of a list:
-https://www.programiz.com/python-programming/methods/list/index
-
 Wind speed unit of measure:
 https://openweathermap.org/weather-data#current
 
