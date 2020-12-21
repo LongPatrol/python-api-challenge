@@ -3,7 +3,8 @@
 ## Weather Py
 For this exercise, we are analyzing the relationship of various weather phenomenon and whether or not those phenomena are dependent on latitude. We are calling the Open Weather api for our weather data: https://openweathermap.org/api . We are also using the CityPy package to find the nearest city to a random assortment of latitudes and longitudes.
 
-You can see an example of one of the graphs in the next section. They are all in the images folder under WeatherPy:
+You can see an example of one of the graphs in the next section. They are all in the images folder under WeatherPy, and there's analysis included in the python files. 
+
 ### Temperature vs. Latitude:
 ![Temperature vs. Latitude](https://github.com/LongPatrol/python-api-challenge/blob/main/WeatherPy/images/latitude_temp_all.png)
 
